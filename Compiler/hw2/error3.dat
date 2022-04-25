@@ -1,0 +1,9 @@
+int a=33311;
+void main() {
+	if (not testerror){
+		printf("happy");}
+	else {
+		printf("not happy");}
+@@@@@
+	
+}

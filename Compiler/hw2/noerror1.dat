@@ -1,0 +1,8 @@
+void main() {
+    int compiler = 0;
+    int lex = 30;
+    while (true_) {
+        printf(Lex Compiler);
+    }
+    return nothing;
+}
